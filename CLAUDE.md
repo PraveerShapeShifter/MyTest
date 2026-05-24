@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is **Spendly** — a personal expense tracker — built as a Flask + SQLite learning scaffold. The codebase is intentionally incomplete: routes and the database module are stubbed out as numbered "Steps" for students to implement. When asked to add functionality, expect to be filling in these gaps rather than refactoring finished code.
 
-Currency convention throughout the UI is INR (₹). Templates address a user named "Nitish Kumar" in placeholders — that's example copy, not a hardcoded user.
+Currency convention throughout the UI is INR (₹). Templates address a user named "Praveer Kumar" in placeholders — that's example copy, not a hardcoded user.
 
 ## Commands
 
